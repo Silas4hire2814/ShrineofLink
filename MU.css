@@ -30,8 +30,8 @@ a {
 }
 
 a:hover {
-  background: #073145; 
-  color: white; 
+  
+  color: red; 
 }
 h4 {
 	border: solid 3px;
